@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 
-## # TASK-1: FILE INTEGRITY CHECKER
+# TASK-1: FILE INTEGRITY CHECKER
 
 This tool monitors any folder for file changes using SHA-256 hashing.
 
